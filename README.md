@@ -1,3 +1,3 @@
-# Jumping Ball
-
-![jumpingball](img/ss.png)
+<p align="center">
+  <img src="img/ss.png">
+</p>
