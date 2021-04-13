@@ -1,3 +1,3 @@
-<p align="center">
-  <img src="img/ss.png" style="width: 50%">
-</p>
+<div style="text-align: center; width: 50%">
+  <img src="img/ss.png">
+</div>
